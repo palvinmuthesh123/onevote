@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96887720920",
+    "project_id": "vcampaign-c35f7",
+    "storage_bucket": "vcampaign-c35f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96887720920:android:6b91be2183d6a4ea1c40ad",
+        "android_client_info": {
+          "package_name": "com.vcampaign.onevote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtDbwAB5ZKMQlnXn5CK1tLRRGbLI5_i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
